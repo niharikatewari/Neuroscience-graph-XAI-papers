@@ -3,5 +3,5 @@ Papers about Graph Neural Networks, Explainable AI, and Neuroimaging for Neurosc
 
 <h3>Review Papers</h3>
 <ol>
-  <li></li>
+  <li>Convergence of Artificial Intelligence and Neuroscience towards the Diagnosis of Neurological Disorders—A Scoping Review[<a href="https://www.mdpi.com/1424-8220/23/6/3062">mdpi</a>]</li>
 </ol>
